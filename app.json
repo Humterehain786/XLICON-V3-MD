@@ -1,5 +1,5 @@
 {
-  "name": "Xlicon-MD",
+  "name": "ZAMAN JANJUA",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
@@ -10,7 +10,7 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "923271045207"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
